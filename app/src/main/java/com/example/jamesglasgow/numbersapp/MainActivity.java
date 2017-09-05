@@ -95,7 +95,8 @@ public class MainActivity extends AppCompatActivity
             Intent intent = new Intent(this, CoinFlipActivity.class);
             startActivity(intent);
         } else if (id == R.id.nav_share) {
-
+            Intent intent = new Intent(this, FindPiAndEActivity.class);
+            startActivity(intent);
         } else if (id == R.id.nav_send) {
 
         }

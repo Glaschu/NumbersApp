@@ -23,7 +23,8 @@
         <activity android:name=".TaxCalculatorActivity" />
         <activity android:name=".FactorialFinderActivity" />
         <activity android:name=".HappyNumberActivity" />
-        <activity android:name=".CoinFlipActivity"></activity>
+        <activity android:name=".CoinFlipActivity" />
+        <activity android:name=".FindPiAndEActivity"></activity>
     </application>
 
 </manifest>
