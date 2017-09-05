@@ -24,7 +24,8 @@
         <activity android:name=".FactorialFinderActivity" />
         <activity android:name=".HappyNumberActivity" />
         <activity android:name=".CoinFlipActivity" />
-        <activity android:name=".FindPiAndEActivity"></activity>
+        <activity android:name=".FindPiAndEActivity" />
+        <activity android:name=".FibonacciActivity"></activity>
     </application>
 
 </manifest>
