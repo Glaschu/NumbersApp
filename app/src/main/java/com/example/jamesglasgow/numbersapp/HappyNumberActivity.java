@@ -33,8 +33,9 @@ public class HappyNumberActivity extends AppCompatActivity {
     public int getSum(int n){
         int sum =0;
         while(n>0){
+            Log.e("test","n "+n%10+"s "+n);
             sum+=(n%10)*(n%10);
-            Log.e("test"," "+sum+" n"+n%10);
+            Log.e("test"," "+sum);
             n=n/10;
         }
         return sum;

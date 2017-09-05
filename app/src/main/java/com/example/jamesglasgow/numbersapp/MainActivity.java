@@ -92,7 +92,8 @@ public class MainActivity extends AppCompatActivity
             Intent intent = new Intent(this, HappyNumberActivity.class);
             startActivity(intent);
         } else if (id == R.id.nav_manage) {
-
+            Intent intent = new Intent(this, CoinFlipActivity.class);
+            startActivity(intent);
         } else if (id == R.id.nav_share) {
 
         } else if (id == R.id.nav_send) {

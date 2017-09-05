@@ -22,7 +22,8 @@
         <activity android:name=".DistanceBetweenActivity" />
         <activity android:name=".TaxCalculatorActivity" />
         <activity android:name=".FactorialFinderActivity" />
-        <activity android:name=".HappyNumberActivity"></activity>
+        <activity android:name=".HappyNumberActivity" />
+        <activity android:name=".CoinFlipActivity"></activity>
     </application>
 
 </manifest>
