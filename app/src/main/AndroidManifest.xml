@@ -25,7 +25,11 @@
         <activity android:name=".HappyNumberActivity" />
         <activity android:name=".CoinFlipActivity" />
         <activity android:name=".FindPiAndEActivity" />
-        <activity android:name=".FibonacciActivity"></activity>
+        <activity android:name=".FibonacciActivity" />
+        <activity android:name=".PrimeFactorizationActivity" />
+        <activity android:name=".NextPrimeActivity" />
+        <activity android:name=".MorgageCalculatorActivity" />
+        <activity android:name=".ChangeReturnActivity"></activity>
     </application>
 
 </manifest>
